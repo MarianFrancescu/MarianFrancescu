@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MarianFrancescu/MarianFrancescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +10,4 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
-
-
-- 🌱 I’m currently learning how to develop good aps.
 
